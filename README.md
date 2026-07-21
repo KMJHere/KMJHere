@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/>
   <br/><br/>
   
-  [![KMJHere's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMJHere&langs_count=5)](https://github.com/KMJHere)
   
   
 </div>
